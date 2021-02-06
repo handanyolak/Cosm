@@ -1,0 +1,14 @@
+/* -----------------------------------------------
+    All CSS Plugins Called Here
+----------------------------------------------- */
+
+@import 'css-plugins/nice-select.css';
+@import 'css-plugins/owl.carousel.min.css';
+@import 'css-plugins/animate.min.css';
+@import 'css-plugins/meanmenu.min.css';
+@import 'css-plugins/jquery-ui.css';
+@import 'css-plugins/easyzoom.css';
+@import 'css-plugins/slick.css';
+@import 'css-plugins/slick-theme.css';
+@import 'css-plugins/magnific-popup.css';
+@import 'css-plugins/nivo-slider.css';

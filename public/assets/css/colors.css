@@ -1,0 +1,906 @@
+/* ======== COLORS ========= */
+ 
+
+.text-blue { color: #4FC1F0; }
+.text-white { color: #fff;}
+.text-black { color: #363636; }
+.text-theme { color: #f10; }
+.text-theme {
+  color: #4a90e2;
+}
+
+.text-white h1, .text-white p, .text-white h2{ color: #fff; }
+
+
+/*1.RED*/
+
+[data-color="red"] .main-menu,
+[data-color="red"] .search-icon-btn,
+[data-color="red"] .breaking-ribbon,
+[data-color="red"] .flexslider li h3,
+[data-color="red"] #sidebar-newsletter button,
+[data-color="red"] #newsletter button,
+[data-color="red"] #time,
+[data-color="red"] .btn-primary:hover,
+[data-color="red"] .sponsored,
+[data-color="red"] .carousel-title,
+[data-color="red"] .play-icon,
+[data-color="red"] .title-style05.style-01,
+[data-color="red"] .title-left.underline04::before,
+[data-color="red"] .title-left.underline03::before, 
+[data-color="red"] .pagination > .active > a,
+[data-color="red"] .read-more:hover:before,
+[data-color="red"] #nav-below-main .nav li a:hover:before,
+[data-color="red"] .btn:hover,
+[data-color="red"] .btn-info.focus, .btn-info:focus,
+[data-color="red"] .btn-default,
+[data-color="red"] .weather-city,
+[data-color="red"] .ui-datepicker-title,
+[data-color="red"] .icon-sub-menu .up-icon,
+[data-color="red"].demo-color {
+	background-color: #d4000e;
+}
+
+[data-color="red"] .title-style02,
+[data-color="red"] .title-style02-light,
+[data-color="red"] .blockquote_style02 {
+	border-left: 3px solid #d4000e;
+}
+[data-color="red"] .currentLink,
+[data-color="red"] .title-style01>h3,
+[data-color="red"] .style-02 span,
+[data-color="red"] .nav-tabs.nav-tabs-bottom > li.active > a {
+	border-bottom: 2px solid #d4000e;
+}
+[data-color="red"] .contact-us a,
+[data-color="red"] .content-wrap a,
+[data-color="red"] #calendar .ui-datepicker-calendar tbody td a.ui-state-highlight,
+[data-color="red"] #nav-below-main .nav li a:hover,
+[data-color="red"] a:hover,
+[data-color="red"] .hour,
+[data-color="red"] .date,
+[data-color="red"] .day,
+[data-color="red"] .time,
+[data-color="red"] .media-body span,
+[data-color="red"] .header-logo h1,
+[data-color="red"] .sidenav-header-logo h2,
+[data-color="red"] .dropdown-menu a:hover,
+[data-color="red"] .read-more:hover,
+[data-color="red"] .blockquote_style01::before,
+[data-color="red"] .contact-us i,
+[data-color="red"] .currency h4,
+[data-color="red"] .square10,
+[data-color="red"] .square11,
+[data-color="red"] #cdate {
+	color: #d4000e;
+}
+[data-color="red"] .pagination > .active > a {
+	border: 1px solid #d4000e;
+}
+[data-color="red"] .navbar-nav > li.active > a {
+	background-color: #be000c;
+}
+[data-color="red"] .sponsored:hover,
+[data-color="red"] #sidebar-newsletter button:hover,
+[data-color="red"] .main-menu .nav>li>a:hover,
+[data-color="red"] .nav .open>a, 
+[data-color="red"] .nav .open>a:focus,
+[data-color="red"] .nav .open>a:hover,
+[data-color="red"] .carousel-title:hover,
+[data-color="red"] .pagination > .active > a:hover,
+[data-color="red"] .btn-default:hover,
+[data-color="red"] .nav-tabs.nav-tabs-solid > .active > a:focus,
+[data-color="red"] .nav-tabs.nav-tabs-solid .active a,
+[data-color="red"] .nav-pills > li.active > a,
+[data-color="red"] .nav-pills > li.active > a:focus,
+[data-color="red"] .nav-pills > li.active > a:hover,
+[data-color="red"] .dropdown-menu > li > a:hover,
+[data-color="red"] .block-title-1,
+[data-color="red"] .block-title-2 {
+	color: #fff;
+	background-color: #e4000d;
+}
+
+/*2.BLUE*/
+
+[data-color="blue"] .main-menu,
+[data-color="blue"] .search-icon-btn,
+[data-color="blue"] .breaking-ribbon,
+[data-color="blue"] .flexslider li h3,
+[data-color="blue"] #sidebar-newsletter button,
+[data-color="blue"] #newsletter button,
+[data-color="blue"] #time,
+[data-color="blue"] .btn-primary:hover,
+[data-color="blue"] .sponsored,
+[data-color="blue"] .carousel-title,
+[data-color="blue"] .play-icon,
+[data-color="blue"] .title-style05.style-01,
+[data-color="blue"] .title-left.underline04::before,
+[data-color="blue"] .title-left.underline03::before, 
+[data-color="blue"] .pagination > .active > a,
+[data-color="blue"] .read-more:hover:before,
+[data-color="blue"] #nav-below-main .nav li a:hover:before,
+[data-color="blue"] .btn:hover,
+[data-color="blue"] .btn-info.focus, .btn-info:focus,
+[data-color="blue"] .btn-default,
+[data-color="blue"] .weather-city,
+[data-color="blue"] .ui-datepicker-title,
+[data-color="blue"] .icon-sub-menu .up-icon,
+[data-color="blue"].demo-color {
+	background-color: #40a9ff;
+}
+
+[data-color="blue"] .title-style02,
+[data-color="blue"] .title-style02-light,
+[data-color="blue"] .blockquote_style02 {
+	border-left: 3px solid #40a9ff;
+}
+[data-color="blue"] .currentLink,
+[data-color="blue"] .title-style01>h3,
+[data-color="blue"] .style-02 span,
+[data-color="blue"] .nav-tabs.nav-tabs-bottom > li.active > a {
+	border-bottom: 2px solid #40a9ff;
+}
+[data-color="blue"] .contact-us a,
+[data-color="blue"] .content-wrap a,
+[data-color="blue"] #calendar .ui-datepicker-calendar tbody td a.ui-state-highlight,
+[data-color="blue"] #nav-below-main .nav li a:hover,
+[data-color="blue"] a:hover,
+[data-color="blue"] .hour,
+[data-color="blue"] .date,
+[data-color="blue"] .day,
+[data-color="blue"] .time,
+[data-color="blue"] .media-body span,
+[data-color="blue"] .header-logo h1,
+[data-color="blue"] .sidenav-header-logo h2,
+[data-color="blue"] .dropdown-menu a:hover,
+[data-color="blue"] .read-more:hover,
+[data-color="blue"] .blockquote_style01::before,
+[data-color="blue"] .contact-us i,
+[data-color="blue"] .currency h4,
+[data-color="blue"] .square10,
+[data-color="blue"] .square11,
+[data-color="blue"] #cdate {
+	color: #40a9ff;
+}
+[data-color="blue"] .pagination > .active > a {
+	border: 1px solid #40a9ff;
+}
+[data-color="blue"] .navbar-nav > li.active > a {
+	background-color: #3998e5;
+}
+[data-color="blue"] .sponsored:hover,
+[data-color="blue"] #sidebar-newsletter button:hover,
+[data-color="blue"] .main-menu .nav>li>a:hover,
+[data-color="blue"] .nav .open>a, 
+[data-color="blue"] .nav .open>a:focus,
+[data-color="blue"] .nav .open>a:hover,
+[data-color="blue"] .carousel-title:hover,
+[data-color="blue"] .pagination > .active > a:hover,
+[data-color="blue"] .btn-default:hover,
+[data-color="blue"] .nav-tabs.nav-tabs-solid > .active > a:focus,
+[data-color="blue"] .nav-tabs.nav-tabs-solid .active a,
+[data-color="blue"] .nav-pills > li.active > a,
+[data-color="blue"] .nav-pills > li.active > a:focus,
+[data-color="blue"] .nav-pills > li.active > a:hover,
+[data-color="blue"] .dropdown-menu > li > a:hover,
+[data-color="blue"] .block-title-1,
+[data-color="blue"] .block-title-2 {
+	color: #fff;
+	background-color: #53b1ff;
+}
+
+/*3.DARK-BLUE*/
+
+[data-color="dark-blue"] .main-menu,
+[data-color="dark-blue"] .search-icon-btn,
+[data-color="dark-blue"] .breaking-ribbon,
+[data-color="dark-blue"] .flexslider li h3,
+[data-color="dark-blue"] #sidebar-newsletter button,
+[data-color="dark-blue"] #newsletter button,
+[data-color="dark-blue"] #time,
+[data-color="dark-blue"] .btn-primary:hover,
+[data-color="dark-blue"] .sponsored,
+[data-color="dark-blue"] .carousel-title,
+[data-color="dark-blue"] .play-icon,
+[data-color="dark-blue"] .title-style05.style-01,
+[data-color="dark-blue"] .title-left.underline04::before,
+[data-color="dark-blue"] .title-left.underline03::before, 
+[data-color="dark-blue"] .pagination > .active > a,
+[data-color="dark-blue"] .read-more:hover:before,
+[data-color="dark-blue"] #nav-below-main .nav li a:hover:before,
+[data-color="dark-blue"] .btn:hover,
+[data-color="dark-blue"] .btn-info.focus, .btn-info:focus,
+[data-color="dark-blue"] .btn-default,
+[data-color="dark-blue"] .weather-city,
+[data-color="dark-blue"] .ui-datepicker-title,
+[data-color="dark-blue"] .icon-sub-menu .up-icon,
+[data-color="dark-blue"].demo-color {
+	background-color: #00469a;
+}
+
+[data-color="dark-blue"] .title-style02,
+[data-color="dark-blue"] .title-style02-light,
+[data-color="dark-blue"] .blockquote_style02 {
+	border-left: 3px solid #00469a;
+}
+[data-color="dark-blue"] .currentLink,
+[data-color="dark-blue"] .title-style01>h3,
+[data-color="dark-blue"] .style-02 span,
+[data-color="dark-blue"] .nav-tabs.nav-tabs-bottom > li.active > a {
+	border-bottom: 2px solid #00469a;
+}
+[data-color="dark-blue"] .contact-us a,
+[data-color="dark-blue"] .content-wrap a,
+[data-color="dark-blue"] #calendar .ui-datepicker-calendar tbody td a.ui-state-highlight,
+[data-color="dark-blue"] #nav-below-main .nav li a:hover,
+[data-color="dark-blue"] a:hover,
+[data-color="dark-blue"] .hour,
+[data-color="dark-blue"] .date,
+[data-color="dark-blue"] .day,
+[data-color="dark-blue"] .time,
+[data-color="dark-blue"] .media-body span,
+[data-color="dark-blue"] .header-logo h1,
+[data-color="dark-blue"] .sidenav-header-logo h2,
+[data-color="dark-blue"] .dropdown-menu a:hover,
+[data-color="dark-blue"] .read-more:hover,
+[data-color="dark-blue"] .blockquote_style01::before,
+[data-color="dark-blue"] .contact-us i,
+[data-color="dark-blue"] .currency h4,
+[data-color="dark-blue"] .square10,
+[data-color="dark-blue"] .square11,
+[data-color="dark-blue"] #cdate {
+	color: #00469a;
+}
+[data-color="dark-blue"] .pagination > .active > a {
+	border: 1px solid #00469a;
+}
+[data-color="dark-blue"] .navbar-nav > li.active > a {
+	background-color: #003f8a;
+}
+[data-color="dark-blue"] .sponsored:hover,
+[data-color="dark-blue"] #sidebar-newsletter button:hover,
+[data-color="dark-blue"] .main-menu .nav>li>a:hover,
+[data-color="dark-blue"] .nav .open>a, 
+[data-color="dark-blue"] .nav .open>a:focus,
+[data-color="dark-blue"] .nav .open>a:hover,
+[data-color="dark-blue"] .carousel-title:hover,
+[data-color="dark-blue"] .pagination > .active > a:hover,
+[data-color="dark-blue"] .btn-default:hover,
+[data-color="dark-blue"] .nav-tabs.nav-tabs-solid > .active > a:focus,
+[data-color="dark-blue"] .nav-tabs.nav-tabs-solid .active a,
+[data-color="dark-blue"] .nav-pills > li.active > a,
+[data-color="dark-blue"] .nav-pills > li.active > a:focus,
+[data-color="dark-blue"] .nav-pills > li.active > a:hover,
+[data-color="dark-blue"] .dropdown-menu > li > a:hover,
+[data-color="dark-blue"] .block-title-1,
+[data-color="dark-blue"] .block-title-2 {
+	color: #fff;
+	background-color: #1958a4;
+}
+
+/*4.GREEN*/
+
+[data-color="green"] .main-menu,
+[data-color="green"] .search-icon-btn,
+[data-color="green"] .breaking-ribbon,
+[data-color="green"] .flexslider li h3,
+[data-color="green"] #sidebar-newsletter button,
+[data-color="green"] #newsletter button,
+[data-color="green"] #time,
+[data-color="green"] .btn-primary:hover,
+[data-color="green"] .sponsored,
+[data-color="green"] .carousel-title,
+[data-color="green"] .play-icon,
+[data-color="green"] .title-style05.style-01,
+[data-color="green"] .title-left.underline04::before,
+[data-color="green"] .title-left.underline03::before, 
+[data-color="green"] .pagination > .active > a,
+[data-color="green"] .read-more:hover:before,
+[data-color="green"] #nav-below-main .nav li a:hover:before,
+[data-color="green"] .btn:hover,
+[data-color="green"] .btn-info.focus, .btn-info:focus,
+[data-color="green"] .btn-default,
+[data-color="green"] .weather-city,
+[data-color="green"] .ui-datepicker-title,
+[data-color="green"] .icon-sub-menu .up-icon,
+[data-color="green"].demo-color {
+	background-color: #4cb050;
+}
+
+[data-color="green"] .title-style02,
+[data-color="green"] .title-style02-light,
+[data-color="green"] .blockquote_style02 {
+	border-left: 3px solid #4cb050;
+}
+[data-color="green"] .currentLink,
+[data-color="green"] .title-style01>h3,
+[data-color="green"] .style-02 span,
+[data-color="green"] .nav-tabs.nav-tabs-bottom > li.active > a {
+	border-bottom: 2px solid #4cb050;
+}
+[data-color="green"] .contact-us a,
+[data-color="green"] .content-wrap a,
+[data-color="green"] #calendar .ui-datepicker-calendar tbody td a.ui-state-highlight,
+[data-color="green"] #nav-below-main .nav li a:hover,
+[data-color="green"] a:hover,
+[data-color="green"] .hour,
+[data-color="green"] .date,
+[data-color="green"] .day,
+[data-color="green"] .time,
+[data-color="green"] .media-body span,
+[data-color="green"] .header-logo h1,
+[data-color="green"] .sidenav-header-logo h2,
+[data-color="green"] .dropdown-menu a:hover,
+[data-color="green"] .read-more:hover,
+[data-color="green"] .blockquote_style01::before,
+[data-color="green"] .contact-us i,
+[data-color="green"] .currency h4,
+[data-color="green"] .square10,
+[data-color="green"] .square11,
+[data-color="green"] #cdate {
+	color: #4cb050;
+}
+[data-color="green"] .pagination > .active > a {
+	border: 1px solid #4cb050;
+}
+[data-color="green"] .navbar-nav > li.active > a {
+	background-color: #449e48;
+}
+[data-color="green"] .sponsored:hover,
+[data-color="green"] #sidebar-newsletter button:hover,
+[data-color="green"] .main-menu .nav>li>a:hover,
+[data-color="green"] .nav .open>a, 
+[data-color="green"] .nav .open>a:focus,
+[data-color="green"] .nav .open>a:hover,
+[data-color="green"] .carousel-title:hover,
+[data-color="green"] .pagination > .active > a:hover,
+[data-color="green"] .btn-default:hover,
+[data-color="green"] .nav-tabs.nav-tabs-solid > .active > a:focus,
+[data-color="green"] .nav-tabs.nav-tabs-solid .active a,
+[data-color="green"] .nav-pills > li.active > a,
+[data-color="green"] .nav-pills > li.active > a:focus,
+[data-color="green"] .nav-pills > li.active > a:hover,
+[data-color="green"] .dropdown-menu > li > a:hover,
+[data-color="green"] .block-title-1,
+[data-color="green"] .block-title-2 {
+	color: #fff;
+	background-color: #5db761;
+}
+
+/*5.PURPLE*/
+
+[data-color="purple"] .main-menu,
+[data-color="purple"] .search-icon-btn,
+[data-color="purple"] .breaking-ribbon,
+[data-color="purple"] .flexslider li h3,
+[data-color="purple"] #sidebar-newsletter button,
+[data-color="purple"] #newsletter button,
+[data-color="purple"] #time,
+[data-color="purple"] .btn-primary:hover,
+[data-color="purple"] .sponsored,
+[data-color="purple"] .carousel-title,
+[data-color="purple"] .play-icon,
+[data-color="purple"] .title-style05.style-01,
+[data-color="purple"] .title-left.underline04::before,
+[data-color="purple"] .title-left.underline03::before, 
+[data-color="purple"] .pagination > .active > a,
+[data-color="purple"] .read-more:hover:before,
+[data-color="purple"] #nav-below-main .nav li a:hover:before,
+[data-color="purple"] .btn:hover,
+[data-color="purple"] .btn-info.focus, .btn-info:focus,
+[data-color="purple"] .btn-default,
+[data-color="purple"] .weather-city,
+[data-color="purple"] .ui-datepicker-title,
+[data-color="purple"] .icon-sub-menu .up-icon,
+[data-color="purple"].demo-color {
+	background-color: #6441a5;
+}
+
+[data-color="purple"] .title-style02,
+[data-color="purple"] .title-style02-light,
+[data-color="purple"] .blockquote_style02 {
+	border-left: 3px solid #6441a5;
+}
+[data-color="purple"] .currentLink,
+[data-color="purple"] .title-style01>h3,
+[data-color="purple"] .style-02 span,
+[data-color="purple"] .nav-tabs.nav-tabs-bottom > li.active > a {
+	border-bottom: 2px solid #6441a5;
+}
+[data-color="purple"] .contact-us a,
+[data-color="purple"] .content-wrap a,
+[data-color="purple"] #calendar .ui-datepicker-calendar tbody td a.ui-state-highlight,
+[data-color="purple"] #nav-below-main .nav li a:hover,
+[data-color="purple"] a:hover,
+[data-color="purple"] .hour,
+[data-color="purple"] .date,
+[data-color="purple"] .day,
+[data-color="purple"] .time,
+[data-color="purple"] .media-body span,
+[data-color="purple"] .header-logo h1,
+[data-color="purple"] .sidenav-header-logo h2,
+[data-color="purple"] .dropdown-menu a:hover,
+[data-color="purple"] .read-more:hover,
+[data-color="purple"] .blockquote_style01::before,
+[data-color="purple"] .contact-us i,
+[data-color="purple"] .currency h4,
+[data-color="purple"] .square10,
+[data-color="purple"] .square11,
+[data-color="purple"] #cdate {
+	color: #6441a5;
+}
+[data-color="purple"] .pagination > .active > a {
+	border: 1px solid #6441a5;
+}
+[data-color="purple"] .navbar-nav > li.active > a {
+	background-color: #5a3a94;
+}
+[data-color="purple"] .sponsored:hover,
+[data-color="purple"] #sidebar-newsletter button:hover,
+[data-color="purple"] .main-menu .nav>li>a:hover,
+[data-color="purple"] .nav .open>a, 
+[data-color="purple"] .nav .open>a:focus,
+[data-color="purple"] .nav .open>a:hover,
+[data-color="purple"] .carousel-title:hover,
+[data-color="purple"] .pagination > .active > a:hover,
+[data-color="purple"] .btn-default:hover,
+[data-color="purple"] .nav-tabs.nav-tabs-solid > .active > a:focus,
+[data-color="purple"] .nav-tabs.nav-tabs-solid .active a,
+[data-color="purple"] .nav-pills > li.active > a,
+[data-color="purple"] .nav-pills > li.active > a:focus,
+[data-color="purple"] .nav-pills > li.active > a:hover,
+[data-color="purple"] .dropdown-menu > li > a:hover,
+[data-color="purple"] .block-title-1,
+[data-color="purple"] .block-title-2 {
+	color: #fff;
+	background-color: #7354ae;
+}
+
+/*6.ORANGE*/
+
+[data-color="orange"] .main-menu,
+[data-color="orange"] .search-icon-btn,
+[data-color="orange"] .breaking-ribbon,
+[data-color="orange"] .flexslider li h4,
+[data-color="orange"] #sidebar-newsletter button,
+[data-color="orange"] #newsletter button,
+[data-color="orange"] #time,
+[data-color="orange"] .btn-primary:hover,
+[data-color="orange"] .sponsored,
+[data-color="orange"] .carousel-title,
+[data-color="orange"] .play-icon,
+[data-color="orange"] .title-style05.style-01,
+[data-color="orange"] .title-left.underline04::before,
+[data-color="orange"] .title-left.underline03::before, 
+[data-color="orange"] .pagination > .active > a,
+[data-color="orange"] .read-more:hover:before,
+[data-color="orange"] #nav-below-main .nav li a:hover:before,
+[data-color="orange"] .btn:hover,
+[data-color="orange"] .btn-info.focus, .btn-info:focus,
+[data-color="orange"] .btn-default,
+[data-color="orange"] .weather-city,
+[data-color="orange"] .ui-datepicker-title,
+[data-color="orange"] .icon-sub-menu .up-icon,
+[data-color="orange"].demo-color {
+	background-color: #ff9800;
+}
+
+[data-color="orange"] .title-style02,
+[data-color="orange"] .title-style02-light,
+[data-color="orange"] .blockquote_style02 {
+	border-left: 3px solid #ff9800;
+}
+[data-color="orange"] .currentLink,
+[data-color="orange"] .title-style01>h3,
+[data-color="orange"] .style-02 span,
+[data-color="orange"] .nav-tabs.nav-tabs-bottom > li.active > a {
+	border-bottom: 2px solid #ff9800;
+}
+[data-color="orange"] .contact-us a,
+[data-color="orange"] .content-wrap a,
+[data-color="orange"] #calendar .ui-datepicker-calendar tbody td a.ui-state-highlight,
+[data-color="orange"] #nav-below-main .nav li a:hover,
+[data-color="orange"] a:hover,
+[data-color="orange"] .hour,
+[data-color="orange"] .date,
+[data-color="orange"] .day,
+[data-color="orange"] .time,
+[data-color="orange"] .media-body span,
+[data-color="orange"] .header-logo h1,
+[data-color="orange"] .sidenav-header-logo h2,
+[data-color="orange"] .dropdown-menu a:hover,
+[data-color="orange"] .read-more:hover,
+[data-color="orange"] .blockquote_style01::before,
+[data-color="orange"] .contact-us i,
+[data-color="orange"] .currency h4,
+[data-color="orange"] .square10,
+[data-color="orange"] .square11,
+[data-color="orange"] #cdate {
+	color: #ff9800;
+}
+[data-color="orange"] .pagination > .active > a {
+	border: 1px solid #ff9800;
+}
+[data-color="orange"] .navbar-nav > li.active > a {
+	background-color: #fb8c00;
+}
+[data-color="orange"] .sponsored:hover,
+[data-color="orange"] #sidebar-newsletter button:hover,
+[data-color="orange"] .main-menu .nav>li>a:hover,
+[data-color="orange"] .nav .open>a, 
+[data-color="orange"] .nav .open>a:focus,
+[data-color="orange"] .nav .open>a:hover,
+[data-color="orange"] .carousel-title:hover,
+[data-color="orange"] .pagination > .active > a:hover,
+[data-color="orange"] .btn-default:hover,
+[data-color="orange"] .nav-tabs.nav-tabs-solid > .active > a:focus,
+[data-color="orange"] .nav-tabs.nav-tabs-solid .active a,
+[data-color="orange"] .nav-pills > li.active > a,
+[data-color="orange"] .nav-pills > li.active > a:focus,
+[data-color="orange"] .nav-pills > li.active > a:hover,
+[data-color="orange"] .dropdown-menu > li > a:hover,
+[data-color="orange"] .block-title-1,
+[data-color="orange"] .block-title-2 {
+	color: #fff;
+	background-color: #ffa200;
+}
+
+/*7.DEEP-ORANGE*/
+
+[data-color="deep-orange"] .main-menu,
+[data-color="deep-orange"] .search-icon-btn,
+[data-color="deep-orange"] .breaking-ribbon,
+[data-color="deep-orange"] .flexslider li h3,
+[data-color="deep-orange"] #sidebar-newsletter button,
+[data-color="deep-orange"] #newsletter button,
+[data-color="deep-orange"] #time,
+[data-color="deep-orange"] .btn-primary:hover,
+[data-color="deep-orange"] .sponsored,
+[data-color="deep-orange"] .carousel-title,
+[data-color="deep-orange"] .play-icon,
+[data-color="deep-orange"] .title-style05.style-01,
+[data-color="deep-orange"] .title-left.underline04::before,
+[data-color="deep-orange"] .title-left.underline03::before, 
+[data-color="deep-orange"] .pagination > .active > a,
+[data-color="deep-orange"] .read-more:hover:before,
+[data-color="deep-orange"] #nav-below-main .nav li a:hover:before,
+[data-color="deep-orange"] .btn:hover,
+[data-color="deep-orange"] .btn-info.focus, .btn-info:focus,
+[data-color="deep-orange"] .btn-default,
+[data-color="deep-orange"] .weather-city,
+[data-color="deep-orange"] .ui-datepicker-title,
+[data-color="deep-orange"] .icon-sub-menu .up-icon,
+[data-color="deep-orange"].demo-color {
+	background-color: #ff4011;
+}
+
+[data-color="deep-orange"] .title-style02,
+[data-color="deep-orange"] .title-style02-light,
+[data-color="deep-orange"] .blockquote_style02 {
+	border-left: 3px solid #ff4011;
+}
+[data-color="deep-orange"] .currentLink,
+[data-color="deep-orange"] .title-style01>h3,
+[data-color="deep-orange"] .style-02 span,
+[data-color="deep-orange"] .nav-tabs.nav-tabs-bottom > li.active > a {
+	border-bottom: 2px solid #ff4011;
+}
+[data-color="deep-orange"] .contact-us a,
+[data-color="deep-orange"] .content-wrap a,
+[data-color="deep-orange"] #calendar .ui-datepicker-calendar tbody td a.ui-state-highlight,
+[data-color="deep-orange"] #nav-below-main .nav li a:hover,
+[data-color="deep-orange"] a:hover,
+[data-color="deep-orange"] .hour,
+[data-color="deep-orange"] .date,
+[data-color="deep-orange"] .day,
+[data-color="deep-orange"] .time,
+[data-color="deep-orange"] .media-body span,
+[data-color="deep-orange"] .header-logo h1,
+[data-color="deep-orange"] .sidenav-header-logo h2,
+[data-color="deep-orange"] .dropdown-menu a:hover,
+[data-color="deep-orange"] .read-more:hover,
+[data-color="deep-orange"] .blockquote_style01::before,
+[data-color="deep-orange"] .contact-us i,
+[data-color="deep-orange"] .currency h4,
+[data-color="deep-orange"] .square10,
+[data-color="deep-orange"] .square11,
+[data-color="deep-orange"] #cdate {
+	color: #ff4011;
+}
+[data-color="deep-orange"] .pagination > .active > a {
+	border: 1px solid #ff4011;
+}
+[data-color="deep-orange"] .navbar-nav > li.active > a {
+	background-color: #f73100;
+}
+[data-color="deep-orange"] .sponsored:hover,
+[data-color="deep-orange"] #sidebar-newsletter button:hover,
+[data-color="deep-orange"] .main-menu .nav>li>a:hover,
+[data-color="deep-orange"] .nav .open>a, 
+[data-color="deep-orange"] .nav .open>a:focus,
+[data-color="deep-orange"] .nav .open>a:hover,
+[data-color="deep-orange"] .carousel-title:hover,
+[data-color="deep-orange"] .pagination > .active > a:hover,
+[data-color="deep-orange"] .btn-default:hover,
+[data-color="deep-orange"] .nav-tabs.nav-tabs-solid > .active > a:focus,
+[data-color="deep-orange"] .nav-tabs.nav-tabs-solid .active a,
+[data-color="deep-orange"] .nav-pills > li.active > a,
+[data-color="deep-orange"] .nav-pills > li.active > a:focus,
+[data-color="deep-orange"] .nav-pills > li.active > a:hover,
+[data-color="deep-orange"] .dropdown-menu > li > a:hover,
+[data-color="deep-orange"] .block-title-1,
+[data-color="deep-orange"] .block-title-2 {
+	color: #fff;
+	background-color: #ff4c1c;
+}
+
+/*8.TURQUOISE*/
+
+[data-color="turquoise"] .main-menu,
+[data-color="turquoise"] .search-icon-btn,
+[data-color="turquoise"] .breaking-ribbon,
+[data-color="turquoise"] .flexslider li h4,
+[data-color="turquoise"] #sidebar-newsletter button,
+[data-color="turquoise"] #newsletter button,
+[data-color="turquoise"] #time,
+[data-color="turquoise"] .btn-primary:hover,
+[data-color="turquoise"] .sponsored,
+[data-color="turquoise"] .carousel-title,
+[data-color="turquoise"] .play-icon,
+[data-color="turquoise"] .title-style05.style-01,
+[data-color="turquoise"] .title-left.underline04::before,
+[data-color="turquoise"] .title-left.underline03::before, 
+[data-color="turquoise"] .pagination > .active > a,
+[data-color="turquoise"] .read-more:hover:before,
+[data-color="turquoise"] #nav-below-main .nav li a:hover:before,
+[data-color="turquoise"] .btn:hover,
+[data-color="turquoise"] .btn-info.focus, .btn-info:focus,
+[data-color="turquoise"] .btn-default,
+[data-color="turquoise"] .weather-city,
+[data-color="turquoise"] .ui-datepicker-title,
+[data-color="turquoise"] .icon-sub-menu .up-icon,
+[data-color="turquoise"].demo-color {
+	background-color: #39c9bb;
+}
+
+[data-color="turquoise"] .title-style02,
+[data-color="turquoise"] .title-style02-light,
+[data-color="turquoise"] .blockquote_style02 {
+	border-left: 3px solid #39c9bb;
+}
+[data-color="turquoise"] .currentLink,
+[data-color="turquoise"] .title-style01>h3,
+[data-color="turquoise"] .style-02 span,
+[data-color="turquoise"] .nav-tabs.nav-tabs-bottom > li.active > a {
+	border-bottom: 2px solid #39c9bb;
+}
+[data-color="turquoise"] .contact-us a,
+[data-color="turquoise"] .content-wrap a,
+[data-color="turquoise"] #calendar .ui-datepicker-calendar tbody td a.ui-state-highlight,
+[data-color="turquoise"] #nav-below-main .nav li a:hover,
+[data-color="turquoise"] a:hover,
+[data-color="turquoise"] .hour,
+[data-color="turquoise"] .date,
+[data-color="turquoise"] .day,
+[data-color="turquoise"] .time,
+[data-color="turquoise"] .media-body span,
+[data-color="turquoise"] .header-logo h1,
+[data-color="turquoise"] .sidenav-header-logo h2,
+[data-color="turquoise"] .dropdown-menu a:hover,
+[data-color="turquoise"] .read-more:hover,
+[data-color="turquoise"] .blockquote_style01::before,
+[data-color="turquoise"] .contact-us i,
+[data-color="turquoise"] .currency h4,
+[data-color="turquoise"] .square10,
+[data-color="turquoise"] .square11,
+[data-color="turquoise"] #cdate {
+	color: #39c9bb;
+}
+[data-color="turquoise"] .pagination > .active > a {
+	border: 1px solid #39c9bb;
+}
+[data-color="turquoise"] .navbar-nav > li.active > a {
+	background-color: #33b3a6;
+}
+[data-color="turquoise"] .sponsored:hover,
+[data-color="turquoise"] #sidebar-newsletter button:hover,
+[data-color="turquoise"] .main-menu .nav>li>a:hover,
+[data-color="turquoise"] .nav .open>a, 
+[data-color="turquoise"] .nav .open>a:focus,
+[data-color="turquoise"] .nav .open>a:hover,
+[data-color="turquoise"] .carousel-title:hover,
+[data-color="turquoise"] .pagination > .active > a:hover,
+[data-color="turquoise"] .btn-default:hover,
+[data-color="turquoise"] .nav-tabs.nav-tabs-solid > .active > a:focus,
+[data-color="turquoise"] .nav-tabs.nav-tabs-solid .active a,
+[data-color="turquoise"] .nav-pills > li.active > a,
+[data-color="turquoise"] .nav-pills > li.active > a:focus,
+[data-color="turquoise"] .nav-pills > li.active > a:hover,
+[data-color="turquoise"] .dropdown-menu > li > a:hover,
+[data-color="turquoise"] .block-title-1,
+[data-color="turquoise"] .block-title-2 {
+	color: #fff;
+	background-color: #40e0d0;
+}
+
+/*9.PINK*/
+
+[data-color="pink"] .main-menu,
+[data-color="pink"] .search-icon-btn,
+[data-color="pink"] .breaking-ribbon,
+[data-color="pink"] .flexslider li h3,
+[data-color="pink"] #sidebar-newsletter button,
+[data-color="pink"] #newsletter button,
+[data-color="pink"] #time,
+[data-color="pink"] .btn-primary:hover,
+[data-color="pink"] .sponsored,
+[data-color="pink"] .carousel-title,
+[data-color="pink"] .play-icon,
+[data-color="pink"] .title-style05.style-01,
+[data-color="pink"] .title-left.underline04::before,
+[data-color="pink"] .title-left.underline03::before, 
+[data-color="pink"] .pagination > .active > a,
+[data-color="pink"] .read-more:hover:before,
+[data-color="pink"] #nav-below-main .nav li a:hover:before,
+[data-color="pink"] .btn:hover,
+[data-color="pink"] .btn-info.focus, .btn-info:focus,
+[data-color="pink"] .btn-default,
+[data-color="pink"] .weather-city,
+[data-color="pink"] .ui-datepicker-title,
+[data-color="pink"] .icon-sub-menu .up-icon,
+[data-color="pink"].demo-color {
+	background-color: #ea0253;
+}
+
+[data-color="pink"] .title-style02,
+[data-color="pink"] .title-style02-light,
+[data-color="pink"] .blockquote_style02 {
+	border-left: 3px solid #ea0253;
+}
+[data-color="pink"] .currentLink,
+[data-color="pink"] .title-style01>h3,
+[data-color="pink"] .style-02 span,
+[data-color="pink"] .nav-tabs.nav-tabs-bottom > li.active > a {
+	border-bottom: 2px solid #ea0253;
+}
+[data-color="pink"] .contact-us a,
+[data-color="pink"] .content-wrap a,
+[data-color="pink"] #calendar .ui-datepicker-calendar tbody td a.ui-state-highlight,
+[data-color="pink"] #nav-below-main .nav li a:hover,
+[data-color="pink"] a:hover,
+[data-color="pink"] .hour,
+[data-color="pink"] .date,
+[data-color="pink"] .day,
+[data-color="pink"] .time,
+[data-color="pink"] .media-body span,
+[data-color="pink"] .header-logo h1,
+[data-color="pink"] .sidenav-header-logo h2,
+[data-color="pink"] .dropdown-menu a:hover,
+[data-color="pink"] .read-more:hover,
+[data-color="pink"] .blockquote_style01::before,
+[data-color="pink"] .contact-us i,
+[data-color="pink"] .currency h4,
+[data-color="pink"] .square10,
+[data-color="pink"] .square11,
+[data-color="pink"] #cdate {
+	color: #ea0253;
+}
+[data-color="pink"] .pagination > .active > a {
+	border: 1px solid #ea0253;
+}
+[data-color="pink"] .navbar-nav > li.active > a {
+	background-color: #d2014a;
+}
+[data-color="pink"] .sponsored:hover,
+[data-color="pink"] #sidebar-newsletter button:hover,
+[data-color="pink"] .main-menu .nav>li>a:hover,
+[data-color="pink"] .nav .open>a, 
+[data-color="pink"] .nav .open>a:focus,
+[data-color="pink"] .nav .open>a:hover,
+[data-color="pink"] .carousel-title:hover,
+[data-color="pink"] .pagination > .active > a:hover,
+[data-color="pink"] .btn-default:hover,
+[data-color="pink"] .nav-tabs.nav-tabs-solid > .active > a:focus,
+[data-color="pink"] .nav-tabs.nav-tabs-solid .active a,
+[data-color="pink"] .nav-pills > li.active > a,
+[data-color="pink"] .nav-pills > li.active > a:focus,
+[data-color="pink"] .nav-pills > li.active > a:hover,
+[data-color="pink"] .dropdown-menu > li > a:hover,
+[data-color="pink"] .block-title-1,
+[data-color="pink"] .block-title-2 {
+	color: #fff;
+	background-color: #ec1b64;
+}
+
+/*10.SLATE*/
+
+[data-color="slate"] .main-menu,
+[data-color="slate"] .search-icon-btn,
+[data-color="slate"] .flexslider li h3,
+[data-color="slate"] #sidebar-newsletter button,
+[data-color="slate"] #newsletter button,
+[data-color="slate"] #time,
+[data-color="slate"] .btn-primary:hover,
+[data-color="slate"] .sponsored,
+[data-color="slate"] .carousel-title,
+[data-color="slate"] .title-left.underline04::before,
+[data-color="slate"] .title-left.underline03::before,
+[data-color="slate"] #nav-below-main .nav li a:hover:before,
+[data-color="slate"] .btn:hover,
+[data-color="slate"] .btn-info.focus, .btn-info:focus,
+[data-color="slate"] .weather-city,
+[data-color="slate"] .ui-datepicker-title,
+[data-color="slate"] .icon-sub-menu .up-icon,
+[data-color="slate"].demo-color {
+	background-color: #64666c;
+}
+[data-color="slate"] .breaking-ribbon,
+[data-color="slate"] .title-style05.style-01,
+[data-color="slate"] .btn-default,
+[data-color="slate"] .pagination > .active > a,
+[data-color="slate"] .read-more:hover:before,
+[data-color="slate"] .play-icon {
+	background-color: #d4000e;
+}
+[data-color="slate"] .title-style02,
+[data-color="slate"] .title-style02-light,
+[data-color="slate"] .blockquote_style02 {
+	border-left: 3px solid #64666c;
+}
+[data-color="slate"] .currentLink,
+[data-color="slate"] .title-style01>h3,
+[data-color="slate"] .style-02 span,
+[data-color="slate"] .nav-tabs.nav-tabs-bottom > li.active > a {
+	border-bottom: 2px solid #64666c;
+}
+[data-color="slate"] .contact-us a,
+[data-color="slate"] .content-wrap a,
+[data-color="slate"] #calendar .ui-datepicker-calendar tbody td a.ui-state-highlight,
+[data-color="slate"] #nav-below-main .nav li a:hover,
+[data-color="slate"] a:hover,
+[data-color="slate"] .hour,
+[data-color="slate"] .date,
+[data-color="slate"] .day,
+[data-color="slate"] .time,
+[data-color="slate"] .media-body span,
+[data-color="slate"] .header-logo h1,
+[data-color="slate"] .sidenav-header-logo h2,
+[data-color="slate"] .dropdown-menu a:hover,
+[data-color="slate"] .blockquote_style01::before,
+[data-color="slate"] .contact-us i,
+[data-color="slate"] .currency h4 {
+	color: #64666c;
+}
+[data-color="slate"] .square10,
+[data-color="slate"] .square11,
+[data-color="slate"] .read-more:hover,
+[data-color="slate"] #cdate {
+	color: #d4000e;
+}
+[data-color="slate"] .pagination > .active > a {
+	border: 1px solid #d4000e;
+}
+[data-color="slate"] .navbar-nav > li.active > a {
+	background-color: #75777c;
+}
+[data-color="slate"] .sponsored:hover,
+[data-color="slate"] #sidebar-newsletter button:hover,
+[data-color="slate"] .main-menu .nav>li>a:hover,
+[data-color="slate"] .nav .open>a, 
+[data-color="slate"] .nav .open>a:focus,
+[data-color="slate"] .nav .open>a:hover,
+[data-color="slate"] .carousel-title:hover,
+[data-color="slate"] .pagination > .active > a:hover,
+[data-color="slate"] .btn-default:hover,
+[data-color="slate"] .nav-tabs.nav-tabs-solid > .active > a:focus,
+[data-color="slate"] .nav-tabs.nav-tabs-solid .active a,
+[data-color="slate"] .nav-pills > li.active > a,
+[data-color="slate"] .nav-pills > li.active > a:focus,
+[data-color="slate"] .nav-pills > li.active > a:hover,
+[data-color="slate"] .dropdown-menu > li > a:hover,
+[data-color="slate"] .block-title-1,
+[data-color="slate"] .block-title-2 {
+	color: #fff;
+	background-color: #53565c;
+}
